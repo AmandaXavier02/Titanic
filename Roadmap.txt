@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Business understanding
 
 Data understanding
@@ -18,4 +19,26 @@ Modelling
 	- KNN
 	- Arvore
 	- Regressão logística
+=======
+Business understanding
+
+Data understanding
+
+	Pandas profilling
+	+ graficos e tabelas interessantes (pacote livre)
+
+Data preparation
+	
+	- drop columns
+	- Missing data( Tratar idade com base nan combinação de classe e sexo, local de embarque com base na classe e no ticket)
+	- One hot encoding
+	- Padronizar
+
+
+Modelling
+
+	- KNN
+	- Arvore
+	- Regressão logística
+>>>>>>> a04bdcc1d649839a7d659114ff27d7fe97b054d4
 	- Métricas de avaliação dos modelos
